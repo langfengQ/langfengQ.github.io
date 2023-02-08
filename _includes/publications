@@ -192,16 +192,16 @@
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="images/teasers/jvir_review_teaser.jpg"/></a></div></td>
-	<td class="pub_td2"><b><large>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</large></b><br>
+	<td class="pub_td2"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
 		<div class='paper_metadata'>
-	  	<b>Lang Feng</b>,
+	  	<u>Lang Feng</u>,
 		Qianhui Liu, 
 		Huajin Tang, 
 		De Ma, 
 		Gang Pan
 		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022<br>
 		</div>
-	<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a> | <a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>
+	[ <a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a> ] [ <a href="https://github.com/langfengQ/MLF-DSResNet">Code</a> ]
 </td></tr>
 {% include table-space.html %}
 
@@ -211,12 +211,12 @@
 		<div class='paper_metadata'>
 		Qianhui Liu, 
 		Dong Xing, 
-		<b>Lang Feng</b>, 
+		<u>Lang Feng</u>, 
 		Huajin Tang, 
 		Gang Pan
 		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022<br>
 		</div>
-	<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>
+	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
@@ -225,7 +225,7 @@
 	<td class="pub_td2"><b>Joint Optimization Based Satellite Handover Strategy for Low Earth Orbit Satellite Networks</b><br>
 		<div class='paper_metadata'>
 	  	Yifei Liu,
-		<b>Lang Feng</b>,
+		<u>Lang Feng</u>,
 		Liang Wu,
 		Zaichen Zhang,
 		Jian Dang,
@@ -233,7 +233,7 @@
 		Lei Wang
 		<br><i>IET Communications</i> 2021<br>
 		</div>
-	<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>
+	[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>]
 </td></tr>
 {% include table-space.html %}
 
@@ -241,14 +241,14 @@
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/9068245"><img class="teaser_img" src="images/teasers/jvir_review_teaser.jpg"/></a></div></td>
 	<td class="pub_td2"><b>A Satellite Handover Strategy Based on MIMO Technology in LEO Satellite Networks</b><br>
 		<div class='paper_metadata'>
-	  	<b>Lang Feng</b>,
+	  	<u>Lang Feng</u>,
 	  	Yifei Liu,
 		Liang Wu,
 		Zaichen Zhang,
 		Jian Dang
 		<br><i>IEEE Communications Letters</i> 2020<br>
 		</div>
-	<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>
+	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
 </td></tr>
 
 </table>
