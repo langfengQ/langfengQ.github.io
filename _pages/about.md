@@ -126,6 +126,11 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 {% include publications %}
 
+## Selected Awards
+* Takeda Fellowship, 2021-2022
+* Siebel Foundation Scholar, 2020
+* Yale Department of Biomedical Engineering Prize, 2015
+* Tau Beta Pi Engineering Honor Society, 2015
 
 <!-- ## Selected Awards
 * Takeda Fellowship, 2021-2022
