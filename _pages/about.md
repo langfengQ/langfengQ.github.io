@@ -123,6 +123,7 @@ I am a MS student at Zhejiang University advised by [Prof. Gang Pan](https://per
   textColor: '#fff'
 })</script>
 
+## Selected Publications
 {% include publications %}
 
 ## Fun AI Creations ([more](https://www.instagram.com/clintonjwang/))
