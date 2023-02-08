@@ -120,10 +120,6 @@ I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_du
   textColor: '#fff'
 })</script>
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 {% include publications %}
 
 
