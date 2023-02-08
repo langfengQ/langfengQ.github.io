@@ -37,10 +37,6 @@ I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_du
 		font-size: 11pt;
 		margin-left: 20px
 	}
-	/* oral {
-		font-weight: bold;
-		color: red;
-	} */
 
     /* Style the gallery */
     #gallery {
