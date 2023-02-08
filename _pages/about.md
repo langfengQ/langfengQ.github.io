@@ -122,6 +122,8 @@ I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_du
   textColor: '#fff'
 })</script>
 
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=lbkkJdoAAAAJ&hl=zh-CN">my Google Scholar profile</a>.</u>
+
 {% include publications %}
 
 
