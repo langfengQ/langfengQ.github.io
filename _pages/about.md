@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: # "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## About Me
 {% include base_path %}
 
 I am a MS student at Zhejiang University advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan)
