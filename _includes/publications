@@ -192,7 +192,7 @@
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="images/teasers/jvir_review_teaser.jpg"/></a></div></td>
-	<td class="pub_td2"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
+	<td class="pub_td2"><b><large>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</large></b><br>
 		<div class='paper_metadata'>
 	  	<b>Lang Feng</b>,
 		Qianhui Liu, 
@@ -201,7 +201,7 @@
 		Gang Pan
 		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022<br>
 		</div>
-	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] | [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
+	<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a> | <a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>
 </td></tr>
 {% include table-space.html %}
 
@@ -222,7 +222,7 @@
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170"><img class="teaser_img" src="images/teasers/jvir_review_teaser.jpg"/></a></div></td>
-	<td class="pub_td2"><b>Joint optimization based satellite handover strategy for low earth orbit satellite networks</b><br>
+	<td class="pub_td2"><b>Joint Optimization Based Satellite Handover Strategy for Low Earth Orbit Satellite Networks</b><br>
 		<div class='paper_metadata'>
 	  	Yifei Liu,
 		<b>Lang Feng</b>,
@@ -239,7 +239,7 @@
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://ieeexplore.ieee.org/abstract/document/9068245"><img class="teaser_img" src="images/teasers/jvir_review_teaser.jpg"/></a></div></td>
-	<td class="pub_td2"><b>A satellite handover strategy based on MIMO technology in LEO satellite networks</b><br>
+	<td class="pub_td2"><b>A Satellite Handover Strategy Based on MIMO Technology in LEO Satellite Networks</b><br>
 		<div class='paper_metadata'>
 	  	<b>Lang Feng</b>,
 	  	Yifei Liu,
