@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: #"About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
+## About Me
 I am a MS student at Zhejiang University advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). My research focuses on medical image analysis, particularly robust and interpretable techniques for both generative and discriminative models. I also work on 3D vision, including neural fields and trajectory estimation. I use diffusion models to make [things](#fun-ai-creations-more).
 <!-- My projects have included analyzing brain MRI (stroke, Alzheimer's disease), liver MRI (hepatocellular carcinoma), fetal MRI (placental oxygenation), and colonoscopy videos (inflammatory bowel disease).  -->
 
@@ -121,16 +122,6 @@ I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_du
 
 {% include publications %}
 
-## Fun AI Creations ([more](https://www.instagram.com/clintonjwang/))
-<div id="gallery">
-</div>
-<img id="modal" src="">
-<div id="leftarrow" class="button">
-	<
-</div>
-<div id="rightarrow" class="button">
-	>
-</div>
 
 <!-- ## Selected Awards
 * Takeda Fellowship, 2021-2022
