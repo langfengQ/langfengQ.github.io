@@ -8,10 +8,8 @@ redirect_from:
 - /about.html
 ---
 
-Graduated summa cum laude from [Saint Petersburg State University](https://english.spbu.ru/), Department of Software Engineering, in 2007. Defended the PhD thesis on a _Software platform for the creation of domain-specific visual development environments_ at Saint Petersburg State University in 2016.
+{% include base_path %}
 
-Head of the [Machine Learning Methods in Software Engineering](https://research.jetbrains.org/groups/ml_methods/) group at [JetBrains Research](https://research.jetbrains.org/) since 2016. From 2008 to 2022, worked as a senior lecturer and an associate professor at Saint Petersburg State University. From 2018 to 2022, worked as an associate professor at [HSE University](https://www.hse.ru/en/).
-Research interests:
-* Software development tools and processes
-* Tools for automated code analysis
-* Applications of machine learning methods in software engineering
+I am a PhD candidate at MIT CSAIL advised by [Polina Golland](https://people.csail.mit.edu/polina/). My research focuses on medical image analysis, particularly robust and interpretable techniques for both generative and discriminative models. I also work on 3D vision, including neural fields and trajectory estimation. I use diffusion models to make [things](#fun-ai-creations-more).
+
+I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_duncan/) and [Julius Chapiro](https://medicine.yale.edu/profile/julius_chapiro/) in the [Yale Radiology Research Lab](https://medicine.yale.edu/lab/radresearch/), and interned at [Iterative Scopes](https://www.iterativescopes.com/). I am supported by the [Takeda Fellowship](https://mittakedaprogram.mit.edu/) and [Siebel Scholarship](http://www.siebelscholars.com/). I received a B.S. in Biomedical Engineering at Yale, where I did research with [Stuart Campbell](https://seas.yale.edu/faculty-research/faculty-directory/stuart-campbell).
