@@ -16,7 +16,7 @@ I am a MS student at Zhejiang University advised by [Prof. Gang Pan](https://per
 
 I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_duncan/) and [Julius Chapiro](https://medicine.yale.edu/profile/julius_chapiro/) in the [Yale Radiology Research Lab](https://medicine.yale.edu/lab/radresearch/), and interned at [Iterative Scopes](https://www.iterativescopes.com/). I am supported by the [Takeda Fellowship](https://mittakedaprogram.mit.edu/) and [Siebel Scholarship](http://www.siebelscholars.com/). I received a B.S. in Biomedical Engineering at Yale, where I did research with [Stuart Campbell](https://seas.yale.edu/faculty-research/faculty-directory/stuart-campbell).
 
-<style type="text/css">
+<!-- <style type="text/css">
 	.paper_metadata a {
 		text-decoration: none!important;
 		color: #494e52;
@@ -120,7 +120,7 @@ I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_du
   textColor: '#fff'
 })</script>
 
-{% include publications %}
+{% include publications %} -->
 
 <p style="margin-bottom: -10px; padding-bottom: 0; color: #888888"><i><b>J</b> — Journal papers. <b>C</b> — Conference papers. <b>B</b> — Book chapters. <b>P</b> — Pre-prints.</i></p>
 
