@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
-title_separator          : "—"
+title                    : "Lang Feng"
+title_separator          : "-"
 name                     : &name "Lang Feng"
 description              : &description "Lang Feng"
 url                      : "https://langfengQ.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

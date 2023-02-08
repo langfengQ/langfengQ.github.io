@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Education"
   #   url: /education/
@@ -9,4 +9,4 @@ main:
   # - title: "Academic work"
   #   url: /academic_work/
   - title: "CV"
-    url: /files/CV.pdf
+    url: /files/cv.pdf
