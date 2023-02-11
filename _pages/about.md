@@ -14,7 +14,7 @@ redirect_from:
 I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
 My research interest lies in multi-agent reinforcement learning, particularly cooperative tasks and the extension of proximal policy optimization. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
 
-I received a B.S. in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/), where I did research on the communication optimization, advised by [Prof. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
+I received a B.S. in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/). During this period, I did research on the communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
 
 <!-- My projects have included analyzing brain MRI (stroke, Alzheimer's disease), liver MRI (hepatocellular carcinoma), fetal MRI (placental oxygenation), and colonoscopy videos (inflammatory bowel disease).  -->
 
