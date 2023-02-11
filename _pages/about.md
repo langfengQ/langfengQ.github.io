@@ -11,10 +11,13 @@ redirect_from:
 {% include base_path %}
 
 ## About Me
-I am a MS student at Zhejiang University advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). My research focuses on medical image analysis, particularly robust and interpretable techniques for both generative and discriminative models. I also work on 3D vision, including neural fields and trajectory estimation. I use diffusion models to make [things](#fun-ai-creations-more).
+I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
+My research interest lies in multi-agent reinforcement learning, particularly cooperative tasks and the extension of proximal policy optimization. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
+
+I received a B.S. in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/), where I did research on the communication optimization, advised by [Prof. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
+
 <!-- My projects have included analyzing brain MRI (stroke, Alzheimer's disease), liver MRI (hepatocellular carcinoma), fetal MRI (placental oxygenation), and colonoscopy videos (inflammatory bowel disease).  -->
 
-I previously worked with [Jim Duncan](https://medicine.yale.edu/profile/james_duncan/) and [Julius Chapiro](https://medicine.yale.edu/profile/julius_chapiro/) in the [Yale Radiology Research Lab](https://medicine.yale.edu/lab/radresearch/), and interned at [Iterative Scopes](https://www.iterativescopes.com/). I am supported by the [Takeda Fellowship](https://mittakedaprogram.mit.edu/) and [Siebel Scholarship](http://www.siebelscholars.com/). I received a B.S. in Biomedical Engineering at Yale, where I did research with [Stuart Campbell](https://seas.yale.edu/faculty-research/faculty-directory/stuart-campbell).
 
 
 ## Publications
