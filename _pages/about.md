@@ -132,8 +132,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 {% include publications %}
 
 ## Selected Awards
-* Outstanding Graduate Student, Zhejiang University, 2022
-* Three-Good Graduate Student, Zhejiang University, 2022
+* Award of Honor for Graduate, Zhejiang University, 2022
+* Graduate of Merit/Tripe A graduate, Zhejiang University, 2022
 * Outstanding Undergraduate Student, Southeast University, 2021
 * Provincial Excellent Graduation Thesis, Jiangsu Province, 2021
 * Provincial First Prize in Contemporary Undergraduate Mathematical Contest in Modeling, Jiangsu Province, 2020
