@@ -191,7 +191,7 @@
 -->
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2022_MLF.png"/></a></div></td>
+	<!-- <td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2022_MLF.png"/></a></div></td> -->
 	<td class="pub_td2"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
 		<div class='paper_metadata'>
 	  	<u>Lang Feng</u>,
