@@ -257,7 +257,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o_.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o.png"/></div></td>
 	<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
 		<div class='paper_metadata'>
 	  	<u>Lang Feng</u>,
@@ -271,7 +271,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_esnn_.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_esnn.png"/></div></td>
 	<td class="pub_td2"><b>Efficient Spiking Neural Network Design via Neural Architecture Search</b><br>
 		<div class='paper_metadata'>
 		Jiaqi Yan,
@@ -288,7 +288,7 @@
 {% include table-space.html %}
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket_.png"/></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
 	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		Junru Zhang,
