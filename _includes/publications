@@ -251,7 +251,46 @@
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
 </td></tr>
 
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2020_letter.png"/></div></td>
+	<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
+		<div class='paper_metadata'>
+	  	<u>Lang Feng</u>,
+	  	Dong Xing,
+		Junru Zhang,
+		Gang pan,
+		<br><i>Under review at ICML</i> 2023<br>
+		</div>
+</td></tr>
 
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2020_letter.png"/></div></td>
+	<td class="pub_td2"><b>Efficient Spiking Neural Network Design via Neural Architecture Search</b><br>
+		<div class='paper_metadata'>
+		Jiaqi Yan,
+		Qianhui Liu,
+		Malu Zhang,
+	  	<u>Lang Feng</u>,
+	  	De Ma,
+		Haizhou Li,
+		Gang pan,
+		<br><i>Under review at ICCV</i> 2023<br>
+		</div>
+</td></tr>
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2020_letter.png"/></div></td>
+	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
+		<div class='paper_metadata'>
+		Junru Zhang,
+	  	<u>Lang Feng</u>,
+	  	Haowen Zhang,
+		Yuhan Wu,
+		Yabo Dong,
+		<br><i>Under review at ECML/PKDD</i> 2023<br>
+		</div>
+</td></tr>
 
 <!-- <tr>
 	<td class="pub_td1"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
