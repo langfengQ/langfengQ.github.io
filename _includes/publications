@@ -258,7 +258,7 @@
 	  	<u>Lang Feng</u>,
 	  	Dong Xing,
 		Junru Zhang,
-		Gang pan,
+		Gang pan
 		TL;DR: Propose a general-purpose multi-agent PPO algorithm, which enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).
 		<br><i>Under review at ICML</i> 2023<br>
 		</div>
@@ -275,7 +275,7 @@
 	  	<u>Lang Feng</u>,
 	  	De Ma,
 		Haizhou Li,
-		Gang pan,
+		Gang pan
 		TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.
 		<br><i>Under review at ICCV</i> 2023<br>
 		</div>
@@ -289,8 +289,8 @@
 	  	<u>Lang Feng</u>,
 	  	Haowen Zhang,
 		Yuhan Wu,
-		Yabo Dong,
-		TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem under the reinforcement learning paradigm.
+		Yabo Dong
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem under the reinforcement learning paradigm.<br>
 		<br><i>Under review at ECML/PKDD</i> 2023<br>
 		</div>
 </td></tr>
