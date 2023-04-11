@@ -252,7 +252,7 @@
 </td></tr>
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"></a><img class="teaser_img" src="/images/teasers/2023_fp3o_.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2023_fp3o_.png"/></a></div></td>
 	<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
 		<div class='paper_metadata'>
 	  	<u>Lang Feng</u>,
@@ -265,7 +265,7 @@
 
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"></a><img class="teaser_img" src="/images/teasers/2023_esnn_.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2023_esnn_.png"/></a></div></td>
 	<td class="pub_td2"><b>Efficient Spiking Neural Network Design via Neural Architecture Search</b><br>
 		<div class='paper_metadata'>
 		Jiaqi Yan,
@@ -280,7 +280,7 @@
 </td></tr>
 
 <tr>
-	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"></a><img class="teaser_img" src="/images/teasers/2023_adacket_.png"/></a></div></td>
+	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2023_adacket_.png"/></a></div></td>
 	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
 		<div class='paper_metadata'>
 		Junru Zhang,
