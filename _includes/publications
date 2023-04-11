@@ -199,8 +199,8 @@
 		Huajin Tang, 
 		De Ma, 
 		Gang Pan
-		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022<br>
-		<br>TL;DR: Combat the gradient vanishing and network degradation in depp directly-trained spiking neural networks.
+		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022
+		<br>TL;DR: Combat the gradient vanishing and network degradation in depp directly-trained spiking neural networks.<br>
 		</div>
 	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
 </td></tr>
@@ -215,8 +215,8 @@
 		<u>Lang Feng</u>, 
 		Huajin Tang, 
 		Gang Pan
-		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022<br>
-		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural network.
+		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022
+		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural network.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
 </td></tr>
@@ -233,8 +233,8 @@
 		Jian Dang,
 		Bingcheng Zhu,
 		Lei Wang
-		<br><i>IET Communications</i> 2021<br>
-		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing the service quality in LEO satellite networks.
+		<br><i>IET Communications</i> 2021
+		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing the service quality in LEO satellite networks.<br>
 		</div>
 	[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>]
 </td></tr>
@@ -249,8 +249,8 @@
 		Liang Wu,
 		Zaichen Zhang,
 		Jian Dang
-		<br><i>IEEE Communications Letters</i> 2020<br>
-		<br>TL;DR: A handover strategy based on weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.
+		<br><i>IEEE Communications Letters</i> 2020
+		<br>TL;DR: A handover strategy based on weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
 </td></tr>
@@ -264,8 +264,8 @@
 	  	Dong Xing,
 		Junru Zhang,
 		Gang pan
-		<br><i>Under review at ICML</i> 2023<br>
-		<br>TL;DR: Full-pipline paradigm can help enable monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).
+		<br><i>Under review at ICML</i> 2023
+		<br>TL;DR: Full-pipline paradigm can help enable monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
@@ -281,8 +281,8 @@
 	  	De Ma,
 		Haizhou Li,
 		Gang pan
-		<br><i>Under review at ICCV</i> 2023<br>
-		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.
+		<br><i>Under review at ICCV</i> 2023
+		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
@@ -296,8 +296,8 @@
 	  	Haowen Zhang,
 		Yuhan Wu,
 		Yabo Dong
-		<br><i>Under review at ECML/PKDD</i> 2023<br>
-		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.
+		<br><i>Under review at ECML/PKDD</i> 2023
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.<br>
 		</div>
 </td></tr>
 {% include table-space.html %}

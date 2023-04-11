@@ -16,7 +16,7 @@ My research interest lies in multi-agent reinforcement learning, particularly co
 
 I received my B.Eng. in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/). During this period, I did research on the communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [Prof. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
 
-You can find my CV [here](/files/cv2.pdf).
+You can find my CV [here](/files/cv.pdf).
 
 <!-- My projects have included analyzing brain MRI (stroke, Alzheimer's disease), liver MRI (hepatocellular carcinoma), fetal MRI (placental oxygenation), and colonoscopy videos (inflammatory bowel disease).  -->
 
