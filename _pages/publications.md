@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-
-## Publications
 <style type="text/css">
 	.paper_metadata a {
 		text-decoration: none!important;
