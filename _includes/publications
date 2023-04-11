@@ -199,6 +199,7 @@
 		Huajin Tang, 
 		De Ma, 
 		Gang Pan
+		<br>TL;DR: Combat the gradient vanishing and network degradation in depp directly-trained spiking neural networks.
 		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022<br>
 		</div>
 	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
@@ -214,6 +215,7 @@
 		<u>Lang Feng</u>, 
 		Huajin Tang, 
 		Gang Pan
+		TL;DR: Multimodality
 		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
@@ -259,7 +261,7 @@
 	  	Dong Xing,
 		Junru Zhang,
 		Gang pan
-		TL;DR: Propose a general-purpose multi-agent PPO algorithm, which enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).
+		<br>TL;DR: Full-pipline paradigm can help enable monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).
 		<br><i>Under review at ICML</i> 2023<br>
 		</div>
 </td></tr>
@@ -276,7 +278,7 @@
 	  	De Ma,
 		Haizhou Li,
 		Gang pan
-		TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.
+		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.
 		<br><i>Under review at ICCV</i> 2023<br>
 		</div>
 </td></tr>
@@ -290,7 +292,7 @@
 	  	Haowen Zhang,
 		Yuhan Wu,
 		Yabo Dong
-		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem under the reinforcement learning paradigm.<br>
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.
 		<br><i>Under review at ECML/PKDD</i> 2023<br>
 		</div>
 </td></tr>
