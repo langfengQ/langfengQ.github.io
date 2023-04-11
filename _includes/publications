@@ -199,8 +199,8 @@
 		Huajin Tang, 
 		De Ma, 
 		Gang Pan
-		<br>TL;DR: Combat the gradient vanishing and network degradation in depp directly-trained spiking neural networks.
 		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022<br>
+		<br>TL;DR: Combat the gradient vanishing and network degradation in depp directly-trained spiking neural networks.
 		</div>
 	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
 </td></tr>
@@ -215,8 +215,8 @@
 		<u>Lang Feng</u>, 
 		Huajin Tang, 
 		Gang Pan
-		TL;DR: Multimodality
 		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022<br>
+		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural network.
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
 </td></tr>
@@ -234,6 +234,7 @@
 		Bingcheng Zhu,
 		Lei Wang
 		<br><i>IET Communications</i> 2021<br>
+		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing the service quality in LEO satellite networks.
 		</div>
 	[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>]
 </td></tr>
@@ -249,9 +250,11 @@
 		Zaichen Zhang,
 		Jian Dang
 		<br><i>IEEE Communications Letters</i> 2020<br>
+		<br>TL;DR: A handover strategy based on weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
 </td></tr>
+{% include table-space.html %}
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o_.png"/></div></td>
@@ -261,11 +264,11 @@
 	  	Dong Xing,
 		Junru Zhang,
 		Gang pan
-		<br>TL;DR: Full-pipline paradigm can help enable monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).
 		<br><i>Under review at ICML</i> 2023<br>
+		<br>TL;DR: Full-pipline paradigm can help enable monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).
 		</div>
 </td></tr>
-
+{% include table-space.html %}
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_esnn_.png"/></div></td>
@@ -278,10 +281,11 @@
 	  	De Ma,
 		Haizhou Li,
 		Gang pan
-		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.
 		<br><i>Under review at ICCV</i> 2023<br>
+		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.
 		</div>
 </td></tr>
+{% include table-space.html %}
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket_.png"/></div></td>
@@ -292,10 +296,11 @@
 	  	Haowen Zhang,
 		Yuhan Wu,
 		Yabo Dong
-		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.
 		<br><i>Under review at ECML/PKDD</i> 2023<br>
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.
 		</div>
 </td></tr>
+{% include table-space.html %}
 
 <!-- <tr>
 	<td class="pub_td1"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
