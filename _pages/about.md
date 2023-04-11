@@ -22,7 +22,7 @@ You can find my CV [here](/files/cv2.pdf).
 
 
 
-## Publications
+<!-- ## Publications
 <style type="text/css">
 	.paper_metadata a {
 		text-decoration: none!important;
@@ -129,7 +129,7 @@ You can find my CV [here](/files/cv2.pdf).
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=lbkkJdoAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
 
-{% include publications %}
+{% include publications %} -->
 
 ## Selected Awards
 * Award of Honor for Graduate, Zhejiang University, 2022
