@@ -18,6 +18,9 @@ My research interests lie in developing principled and efficient reinforcement l
 
 You can find my CV [here](/files/Curriculum_Vitae.pdf).
 
+Contact: langfeng[at]zju.edu.cn (Acadamic use), langfeng.q[at]gmail.come (Normal use)
+
+Address: LaoShengYi Bldg., Yuquan Campus, Zhejiang University.
 
 <!-- I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
 My research interest lies in multi-agent reinforcement learning, particularly cooperative tasks and the extension of proximal policy optimization. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
