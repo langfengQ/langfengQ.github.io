@@ -6,7 +6,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  # - title: "Academic work"
-  #   url: /academic_work/
   - title: "Curriculum Vitae"
     url: /files/Curriculum_Vitae.pdf
+
+  - title: "Contact"
+    url: /contact/
