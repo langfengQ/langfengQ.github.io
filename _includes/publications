@@ -200,7 +200,7 @@
 		De Ma, 
 		Gang Pan
 		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022
-		<br>TL;DR: Combat the gradient vanishing and network degradation in depp directly-trained spiking neural networks.<br>
+		<br>TL;DR: Combat the gradient vanishing and network degradation in deep directly-trained spiking neural networks.<br>
 		</div>
 	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
 </td></tr>
@@ -265,7 +265,7 @@
 		Junru Zhang,
 		Gang pan
 		<br><i>Under review at ICML</i> 2023
-		<br>TL;DR: Full-pipline paradigm can help enable monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
+		<br>TL;DR: Full-pipline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
