@@ -12,11 +12,9 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am currently a second-year master student in Computer Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I am conducting research on reinforcement learning and spiking neural networks as a member of the [AdvanCed Computing aNd SysTem Laboratory](https://www.ccnt.zju.edu.cn/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). Previously, I received my B.Eng. (Hons.) in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/) in June 2021. During that period, I did research on communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
+I am currently a second-year master student in Computer Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I am conducting research on reinforcement learning and spiking neural networks as a member of the [AdvanCed Computing aNd SysTem Laboratory](https://www.ccnt.zju.edu.cn/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). Previously, I received my B.Eng. (Hons.) in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/) in June 2021. During that period, I did research on communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm). You can find my CV [here](/files/Curriculum_Vitae.pdf).
 
 My research interests lie in developing principled and efficient reinforcement learning (RL) algorithms, particularly in multi-agent systems, as well as exploring RL applications in other AI domains and real-world challenges. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
-
-You can find my CV [here](/files/Curriculum_Vitae.pdf).
 
 Contact: langfeng[at]zju.edu.cn (Acadamic use), langfeng.q[at]gmail.come (Normal use)
 
