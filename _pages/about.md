@@ -11,12 +11,20 @@ redirect_from:
 {% include base_path %}
 
 <!-- ## About Me -->
-I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
+
+I am currently a second-year master student in Computer Technology at [Zhejiang University](https://www.zju.edu.cn/english/), where I am conducting research on reinforcement learning and spiking neural networks as a member of the [AdvanCed Computing aNd SysTem Laboratory](https://www.ccnt.zju.edu.cn/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). Previously, I received my B.Eng. (Hons.) in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/) in June 2021. During that period, I did research on communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
+
+My research interests lie in developing principled and efficient reinforcement learning (RL) algorithms, particularly in multi-agent systems, as well as exploring RL applications in other AI domains and real-world challenges. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
+
+You can find my CV [here](/files/Curriculum_Vitae.pdf).
+
+
+<!-- I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
 My research interest lies in multi-agent reinforcement learning, particularly cooperative tasks and the extension of proximal policy optimization. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
 
-I received my B.Eng. in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/). During this period, I did research on the communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [A.P. Liang Wu](https://radio.seu.edu.cn/newenglish/wl_en/main.htm).
+I received my B.Eng. in Information Engineering at [Southeast University](https://www.seu.edu.cn/english/). During this period, I did research on the communication optimization at [National Mobile Communications Research Lab](https://ncrl.seu.edu.cn/), advised by [Prof. Liang Wu](https://radio.seu.edu.cn/2018/0423/c19938a213594/page.htm).
 
-You can find my CV [here](/files/cv.pdf).
+You can find my CV [here](/files/cv.pdf). -->
 
 <!-- My projects have included analyzing brain MRI (stroke, Alzheimer's disease), liver MRI (hepatocellular carcinoma), fetal MRI (placental oxygenation), and colonoscopy videos (inflammatory bowel disease).  -->
 
