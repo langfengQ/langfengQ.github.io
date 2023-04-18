@@ -1,5 +1,7 @@
 <!-- ## Selected Publications -->
 
+## Publications
+
 <table class="pub_table">
 <!-- 
 <tr>
@@ -256,6 +258,12 @@
 </td></tr>
 {% include table-space.html %}
 
+</table>
+
+
+## Preprints
+
+<table class="pre_table">
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o.png"/></div></td>
 	<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
