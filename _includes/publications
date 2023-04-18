@@ -261,7 +261,7 @@
 </table>
 
 
-# Preprints
+# Under Review
 
 <table class="pre_table">
 <tr>
@@ -304,7 +304,7 @@
 	  	Haowen Zhang,
 		Yuhan Wu,
 		Yabo Dong
-		<br><i>Under review at ECML/PKDD</i> 2023
+		<br><i>Under review at ECML-PKDD</i> 2023
 		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.<br>
 		</div>
 </td></tr>
