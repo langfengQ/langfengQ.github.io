@@ -218,7 +218,7 @@
 		Huajin Tang, 
 		Gang Pan
 		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022
-		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural network.<br>
+		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural networks.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
 </td></tr>
@@ -236,7 +236,7 @@
 		Bingcheng Zhu,
 		Lei Wang
 		<br><i>IET Communications</i> 2021
-		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing the service quality in LEO satellite networks.<br>
+		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing service quality in LEO satellite networks.<br>
 		</div>
 	[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>]
 </td></tr>
@@ -252,7 +252,7 @@
 		Zaichen Zhang,
 		Jian Dang
 		<br><i>IEEE Communications Letters</i> 2020
-		<br>TL;DR: A handover strategy based on weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.<br>
+		<br>TL;DR: A handover strategy based on the weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
 </td></tr>
@@ -263,7 +263,7 @@
 
 # Under Review
 
-<table class="pre_table">
+<table class="pub_table">
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o.png"/></div></td>
 	<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
@@ -273,7 +273,7 @@
 		Junru Zhang,
 		Gang pan
 		<br><i>Under review at ICML</i> 2023
-		<br>TL;DR: Full-pipline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
+		<br>TL;DR: Full-pipeline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
