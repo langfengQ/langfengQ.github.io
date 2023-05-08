@@ -16,7 +16,7 @@ I am currently a second-year master student in Computer Technology at [Zhejiang 
 
 My research interests lie in developing principled and efficient reinforcement learning (RL) algorithms, particularly in multi-agent systems, as well as exploring RL applications in other AI domains and real-world challenges. I also work on the spiking neural network, including combating spike-oriented gradient vanishing and optimizing the network structure. 
 
-You can find my CV [here](/files/cv.pdf).
+You can find my CV [here](/files/cv_lang.pdf).
 
 
 <!-- I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
