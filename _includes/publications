@@ -193,6 +193,21 @@
 -->
 
 <tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
+	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
+		<div class='paper_metadata'>
+		Junru Zhang,
+	  	<u>Lang Feng</u>,
+	  	Haowen Zhang,
+		Yuhan Wu,
+		Yabo Dong
+		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.<br>
+		</div>
+</td></tr>
+{% include table-space.html %}
+
+<tr>
 	<td class="pub_td1"><div class="teaser_img_div"><a href="https://doi.org/10.24963/ijcai.2022/343"><img class="teaser_img" src="/images/teasers/2022_MLF.png"/></a></div></td>
 	<td class="pub_td2"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
 		<div class='paper_metadata'>
@@ -201,7 +216,7 @@
 		Huajin Tang, 
 		De Ma, 
 		Gang Pan
-		<br><i>International Joint Conference on Artificial Intelligence (IJCAI)</i> 2022
+		<br><i>International Joint Conference on Artificial Intelligence (IJCAI) 2022 </i>
 		<br>TL;DR: Combat the gradient vanishing and network degradation in deep directly-trained spiking neural networks.<br>
 		</div>
 	[<a href="https://doi.org/10.24963/ijcai.2022/343">Paper</a>] [<a href="https://github.com/langfengQ/MLF-DSResNet">Code</a>]
@@ -217,7 +232,7 @@
 		<u>Lang Feng</u>, 
 		Huajin Tang, 
 		Gang Pan
-		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i> 2022
+		<br><i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022</i>
 		<br>TL;DR: Multimodal learning with attention mechanism enhances the performance of spiking neural networks.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9746865">Paper</a>]
@@ -235,7 +250,7 @@
 		Jian Dang,
 		Bingcheng Zhu,
 		Lei Wang
-		<br><i>IET Communications</i> 2021
+		<br><i>IET Communications 2021</i>
 		<br>TL;DR: A joint optimization algorithm is proposed to balance the satellite workloads while guaranteeing service quality in LEO satellite networks.<br>
 		</div>
 	[<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12170">Paper</a>]
@@ -251,7 +266,7 @@
 		Liang Wu,
 		Zaichen Zhang,
 		Jian Dang
-		<br><i>IEEE Communications Letters</i> 2020
+		<br><i>IEEE Communications Letters 2020</i>
 		<br>TL;DR: A handover strategy based on the weighted bipartite graph in LEO satellite networks, aiming to maximize the communication quality and balance the network load.<br>
 		</div>
 	[<a href="https://ieeexplore.ieee.org/abstract/document/9068245">Paper</a>]
@@ -272,7 +287,7 @@
 	  	Dong Xing,
 		Junru Zhang,
 		Gang pan
-		<br><i>Under review at NeurIPS</i> 2023
+		<br><i>Under review at NeurIPS 2023</i>
 		<br>TL;DR: Full-pipeline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
 		</div>
 </td></tr>
@@ -289,23 +304,8 @@
 	  	De Ma,
 		Haizhou Li,
 		Gang pan
-		<br><i>Under review at ICCV</i> 2023
+		<br><i>Under review at ICCV 2023</i>
 		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.<br>
-		</div>
-</td></tr>
-{% include table-space.html %}
-
-<tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
-	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
-		<div class='paper_metadata'>
-		Junru Zhang,
-	  	<u>Lang Feng</u>,
-	  	Haowen Zhang,
-		Yuhan Wu,
-		Yabo Dong
-		<br><i>Under review at ECML-PKDD</i> 2023
-		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
