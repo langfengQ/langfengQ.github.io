@@ -7,7 +7,7 @@ main:
   #   url: /awards/
 
   - title: "Curriculum Vitae"
-    url: /files/cv_lang.pdf
+    url: /files/cv_website.pdf
 
   - title: "Contact"
     url: /contact/

@@ -193,6 +193,56 @@
 -->
 
 <tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2024_bd.png"/></div></td>
+	<td class="pub_td2"><b>Bidirectional Distillation: A Semi Self-Play Framework for Multi-Agent Generalizable Behaviors</b><br>
+		<div class='paper_metadata'>
+		<u>Lang Feng</u>,
+	  	Jiahao Lin,
+	  	Dong Xing,
+		Li Zhang,
+		De Ma,
+		Shijian Li,
+		Gang Pan
+		<br><i>Under review at AAAI 2024.
+		<br>TL;DR: A semi self-play framework for MARL that can generate diverse and generalizable behaviors using Bidirectional Distillation.<br>
+		</div>
+</td></tr>
+{% include table-space.html %}
+
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_tce.png"/></div></td>
+	<td class="pub_td2"><b>Temporal Convolutional Explorer Helps Understand 1D-CNN's Learning Behavior in Time Series Classification from Frequency Domain</b><br>
+		<div class='paper_metadata'>
+		Junru Zhang,
+	  	<u>Lang Feng</u>,
+	  	Yang He,
+		Yuhan Wu,
+		Yabo Dong
+		<br><i>ACM International Conference on Information & Knowledge Management (CIKM) 2023</i>, long paper, accepted.
+		<br>TL;DR: Explore the learning behavior of 1D-CNNs in TSC tasks and leverage this finding to correct the suboptimal behavior of 1D-CNNs.<br>
+		</div>
+</td></tr>
+{% include table-space.html %}
+
+
+<table class="pub_table">
+	<tr>
+		<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o.png"/></div></td>
+		<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
+			<div class='paper_metadata'>
+			  <u>Lang Feng</u>,
+			  Dong Xing,
+			Junru Zhang,
+			Gang pan
+			<br><i>Under review at NeurIPS 2023</i>
+			<br>TL;DR: Full-pipeline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
+			</div>
+	</td></tr>
+	{% include table-space.html %}
+
+<tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_adacket.png"/></div></td>
 	<td class="pub_td2"><b>Adacket: ADAptive Convolutional KErnel Transform for Multivariate Time Series Classification</b><br>
 		<div class='paper_metadata'>
@@ -203,6 +253,24 @@
 		Yabo Dong
 		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
 		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.<br>
+		</div>
+</td></tr>
+{% include table-space.html %}
+
+
+<tr>
+	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_esnn.png"/></div></td>
+	<td class="pub_td2"><b>Efficient Spiking Neural Network Design via Neural Architecture Search</b><br>
+		<div class='paper_metadata'>
+		Jiaqi Yan,
+		Qianhui Liu,
+		Malu Zhang,
+	  	<u>Lang Feng</u>,
+	  	De Ma,
+		Haizhou Li,
+		Gang pan
+		<br><i>Under review at Neural Networks</i>
+		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
@@ -276,39 +344,6 @@
 </table>
 
 
-# Under Review
-
-<table class="pub_table">
-<tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_fp3o.png"/></div></td>
-	<td class="pub_td2"><b>FP3O: Enabling Proximal Policy Optimization on Cooperative Multi-Agent Tasks with Diverse Network Types</b><br>
-		<div class='paper_metadata'>
-	  	<u>Lang Feng</u>,
-	  	Dong Xing,
-		Junru Zhang,
-		Gang pan
-		<br><i>Under review at NeurIPS 2023</i>
-		<br>TL;DR: Full-pipeline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
-		</div>
-</td></tr>
-{% include table-space.html %}
-
-<tr>
-	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2023_esnn.png"/></div></td>
-	<td class="pub_td2"><b>Efficient Spiking Neural Network Design via Neural Architecture Search</b><br>
-		<div class='paper_metadata'>
-		Jiaqi Yan,
-		Qianhui Liu,
-		Malu Zhang,
-	  	<u>Lang Feng</u>,
-	  	De Ma,
-		Haizhou Li,
-		Gang pan
-		<br><i>Under review at ICCV 2023</i>
-		<br>TL;DR: A spiking neural architecture search (NAS) method to automatically find the computationally-efficient subspace of the supernet.<br>
-		</div>
-</td></tr>
-{% include table-space.html %}
 
 <!-- <tr>
 	<td class="pub_td1"><b>Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks</b><br>
