@@ -194,7 +194,7 @@
 
 <tr>
 	<td class="pub_td1"><div class="teaser_img_div"><img class="teaser_img" src="/images/teasers/2024_bd.png"/></div></td>
-	<td class="pub_td2"><b>Bidirectional Distillation: A Semi Self-Play Framework for Multi-Agent Generalizable Behaviors</b><br>
+	<td class="pub_td2"><b>Bidirectional Distillation: A Semi-Self-Play Framework for Multi-Agent Generalizable Behaviors</b><br>
 		<div class='paper_metadata'>
 		<u>Lang Feng</u>,
 	  	Jiahao Lin,
@@ -204,7 +204,7 @@
 		Shijian Li,
 		Gang Pan
 		<br><i>Under review at AAAI 2024</i>.
-		<br>TL;DR: A semi self-play framework for MARL that can generate diverse and generalizable behaviors using Bidirectional Distillation.<br>
+		<br>TL;DR: Bidirectional Distillation, a semi-self-play framework, enables MARL agents to generate generalizable behaviors for zero-shot teammates.<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
