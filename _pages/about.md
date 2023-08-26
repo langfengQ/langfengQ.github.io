@@ -16,7 +16,7 @@ I am currently a master student in Computer Technology at [Zhejiang University](
 
 My research interests lie in developing principled and efficient reinforcement learning (RL) algorithms, particularly in multi-agent systems, as well as exploring RL applications in other AI domains and real-world challenges. 
 
-You can find my CV [here](/files/cv_website.pdf).
+You can find my CV [here](/files/cv_langfeng.pdf).
 
 
 <!-- I am currently a master student at [Zhejiang University](https://www.zju.edu.cn/english/), advised by [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan). 
