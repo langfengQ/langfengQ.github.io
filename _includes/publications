@@ -237,7 +237,7 @@
 			Junru Zhang,
 			Gang pan
 			<br><i>Under review at NeurIPS 2023</i>
-			<br>TL;DR: Full-pipeline paradigm enables monotonic joint policy improvement to be generalizable across various parameter-sharing types (full/partial/non).<br>
+			<br>TL;DR: Full-pipeline paradigm enables the monotonic policy improvement in multi-agent system to be generalizable across various parameter-sharing types (full/partial/non).<br>
 			</div>
 	</td></tr>
 	{% include table-space.html %}
@@ -252,7 +252,7 @@
 		Yuhan Wu,
 		Yabo Dong
 		<br><i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2023</i>, accepted.
-		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning paradigm.<br>
+		<br>TL;DR: An adaptive convolutional kernel transform that models the establishment of 1D-CNN as a sequential decision-making problem using the reinforcement learning.<br>
 		</div>
 </td></tr>
 {% include table-space.html %}
